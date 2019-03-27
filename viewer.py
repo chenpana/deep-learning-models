@@ -1,4 +1,5 @@
-##coding:utf-8
+#coding:utf-8
+#try to add something to commit
 #%% Change working directory from the workspace root to the ipynb file location. Turn this addition off with the DataScience.changeDirOnImportExport setting
 from matplotlib.figure import Figure
 import os
